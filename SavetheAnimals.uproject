@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{019FD169-4F0A-209E-F5B2-DA858AB92A5C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SavetheAnimals",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
