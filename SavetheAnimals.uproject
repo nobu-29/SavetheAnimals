@@ -1,6 +1,6 @@
 {
   "FileVersion": 3,
-  "EngineAssociation": "{AB136977-4654-5195-BF3E-0CA33FCCA918}",
+  "EngineAssociation": "5.7",
   "Category": "",
   "Description": "",
   "Modules": [
@@ -17,7 +17,7 @@
     },
     {
       "Name": "VisualStudioTools",
-      "Enabled": true,
+      "Enabled": false,
       "SupportedTargetPlatforms": [
         "Win64"
       ]
