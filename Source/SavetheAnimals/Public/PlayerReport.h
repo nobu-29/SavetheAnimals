@@ -25,6 +25,4 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite)
     int32 RetryCount = 0;
 
-    UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 HintUseCount = 0;
 };
