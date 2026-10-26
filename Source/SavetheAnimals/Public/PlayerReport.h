@@ -22,7 +22,4 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite)
     int32 DiseaseCount = 0;
 
-    UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 RetryCount = 0;
-
 };
