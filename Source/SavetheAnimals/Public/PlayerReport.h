@@ -14,17 +14,12 @@ public:
     int32 DeathCount = 0;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 EnemyDeaths = 0;
+    int32 LoadKillCount = 0;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 FallDeaths = 0;
+    int32 PoisonCount = 0;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 TrapDeaths = 0;
+    int32 DiseaseCount = 0;
 
-    UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 RetryCount = 0;
-
-    UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 HintUseCount = 0;
 };
