@@ -28,10 +28,6 @@ bool UPlayLogsReport::ExportLogsToJson(
             TEXT("DeathReason"),
             Log.DeathReason);
 
-        JsonObject->SetStringField(
-            TEXT("EnemyName"),
-            Log.EnemyName);
-
         JsonLogs.Add(
             MakeShareable(
                 new FJsonValueObject(JsonObject)));
