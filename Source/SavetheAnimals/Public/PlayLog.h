@@ -16,6 +16,4 @@ public:
     UPROPERTY(BlueprintReadWrite)
     FString DeathReason;
 
-    UPROPERTY(BlueprintReadWrite)
-    FString EnemyName;
 };
