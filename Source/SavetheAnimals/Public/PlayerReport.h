@@ -14,7 +14,7 @@ public:
     int32 DeathCount = 0;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite)
-    int32 LoadKillCount = 0;
+    int32 KillCount = 0;
 
     UPROPERTY(EditAnywhere, BlueprintReadWrite)
     int32 PoisonCount = 0;
