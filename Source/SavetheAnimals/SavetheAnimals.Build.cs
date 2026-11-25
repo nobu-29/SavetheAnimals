@@ -8,7 +8,7 @@ public class SavetheAnimals : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore","EnhancedInput","Json","JsonUtilities" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore","EnhancedInput","Json","JsonUtilities","Landscape" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
