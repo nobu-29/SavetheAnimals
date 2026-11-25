@@ -1,0 +1,7 @@
+DeathCount,LoadKillCount,PoisonCount,DiseaseCount,RetryCount,HintCount,Type
+20,5,8,2,25,0,Practice
+18,3,7,1,20,1,Practice
+5,0,0,1,2,10,Theory
+6,1,1,0,3,12,Theory
+10,2,3,1,8,2,Explorer
+12,3,2,2,10,1,Explorer
