@@ -1,2 +1,3 @@
 /Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
 /Content/ryu/LowpolyCar.zip filter=lfs diff=lfs merge=lfs -text
+/Content/PCG/Assets/Meshes/SM_FallenSpruce_01.uasset filter=lfs diff=lfs merge=lfs -text
